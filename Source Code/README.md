@@ -8,3 +8,8 @@
 
 ### KWS_GSM_Fence_Monitor
 #### This Application sends dummy alert via mqtt
+
+### Dashboard to monitor device data
+#### URL - https://kws-iot-demo.eu-gb.mybluemix.net/
+#### Username - kws
+#### Password - kwsdemo2019
