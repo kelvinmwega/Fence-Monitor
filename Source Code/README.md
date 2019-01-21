@@ -5,3 +5,6 @@
 
 ### KWS_GSM_Alerting_Fence_Monitor
 #### This Application sends the Alert processed from the fence monitoring alert logic via mqtt
+
+### KWS_GSM_Fence_Monitor
+#### This Application sends dummy alert via mqtt
